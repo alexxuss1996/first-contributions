@@ -351,6 +351,7 @@ Amlendra
 - [Rajat](https://github.com/rajatkumar2205)
 - [Alvaro](https://github.com/Alvaro8gb)
 - [Fabio Laura](https://github.com/raptor0929)
+- [Olexiy Melnychuk](https://github.com/alexxuss1996)
 - [Shreyas] (https://github.com/ShreyasWeb3)
 - [Kouam Franck](https://github.com/kofra-jg)
 - [Aditya Bhargava](https://github.com/Bhargavaa1)
